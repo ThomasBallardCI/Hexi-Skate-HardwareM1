@@ -10,17 +10,12 @@
 body {
     font-family: 'Open Sans', sans-serif;
     background-color: aqua;
-}
-
-.fixed-header {
     width: 100%;
-    border: 1px solid white;
-    height: 75px;
 }
 
 .head-container {
     background-color: black;
-    width: 65%;
+    width: 1248px;   
     height: 75px;
     margin: 0 auto;
 }

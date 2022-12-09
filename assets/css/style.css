@@ -9,20 +9,139 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: aqua;
+    background-color: #35363a;
     width: 100%;
+    color: #f0f0f0;
 }
 
 .head-container {
-    background-color: black;
+    background-color: #35363a;
     width: 1248px;   
     height: 75px;
     margin: 0 auto;
 }
 
-@media screen and (max-width:1200px) {
+#logo {
+    height: 50px;
+    width: auto;
+    padding: 10px 0;
+    float: left;
+}
+
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    float: right;
+}
+
+#menu li {
+    float: left;
+    padding-left: 25px;
+    line-height: 75px;
+    padding-right: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #f0f0f0;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.active {
+    border-bottom: 1px solid #8ED7FC;
+}
+
+.content-container {
+    width: 1248px;
+    margin: 0 auto;
+    height: auto;
+    display: flex;
+}
+
+#printer-image-container {
+    /* border: 1px solid white; */
+    width: 50%;
+}
+
+#printer-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+#big-text {
+    /* border: 1px solid white; */
+    width: 50%;
+    text-transform: uppercase;
+    padding-left: 1em;
+}
+
+#big-text h1 {
+    font-size: 650%;
+    font-weight: 900;
+    color: #7037ab;
+    line-height: 0.65em;
+    padding-bottom: 1.65rem;
+    letter-spacing: 0.1rem;
+}
+
+#big-text h2, h3 {
+    font-size: 650%;
+    font-weight: 600;
+    letter-spacing: 0.44rem;
+    line-height: 1.1em;
+}
+
+#big-text #block-text {
+    font-display: block;
+    background-color: #f0f0f0;
+    width: 45%;
+    color: #7037ab;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 0.6em;
+    font-size: 90%;
+
+}
+
+#line-break {
+    width:100%;
+    height: 2px;
+    background-color: #f0f0f0;
+    margin-top: 2em;
+}
+
+#left-blurb {
+    width: 45%;
+    font-size: 150%;
+    float: left;
+}
+
+#right-blurb {
+    float: right;
+    font-size: 150%;
+    width: 45%;
+}
+
+#left-blurb p {
+    font-size: 0.62em;
+    text-transform: none;
+}
+
+#right-blurb p {
+    font-size: 0.62em;
+    text-transform: none;
+}
+
+
+
+
+
+/* @media screen and (max-width:1200px) {
     .head-container {
         width: 100%;
     }
     
-}
+} */

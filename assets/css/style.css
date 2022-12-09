@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+/* Margin, Border and Padding defaults removed site wide */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: aqua;
+}
+
+.fixed-header {
+    width: 100%;
+    border: 1px solid white;
+    height: 75px;
+}
+
+.head-container {
+    background-color: black;
+    width: 65%;
+    height: 75px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width:1200px) {
+    .head-container {
+        width: 100%;
+    }
+    
+}

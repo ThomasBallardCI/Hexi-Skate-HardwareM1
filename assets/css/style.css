@@ -21,7 +21,6 @@ body {
     width: 1248px;   
     height: 75px;
     margin: 0 auto;
-    padding-bottom: 50px;
 }
 
 /* Logo styling */
@@ -65,7 +64,7 @@ body {
     height: auto;
     display: flex;
     align-self: center;
-    padding-top: 75px;
+    padding-top: 4.5em;
 }
 
 #printer-image-container {
@@ -242,17 +241,19 @@ input[type=submit]:hover {
 /* Tablet styling */
 @media screen and (max-width:1247px) {
     .head-container {
-        width: 90%;
+        width: 90%;   
     }
     
     .content-container {
         width: 90%;
         display: block;
         align-self: center;
+        padding-top: 1em;
     }
 
     #printer-image-container {
         width: 100%;
+        padding-bottom: 2em;
     }
 
     #big-text {
@@ -285,10 +286,12 @@ input[type=submit]:hover {
     .content-container {
         width: 100%;
         align-self: center;
+        padding-top: 1em;
     }
 
     #printer-image-container {
         width: 100%;
+        padding-bottom: 1em;
     }
 
     #big-text {

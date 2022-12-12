@@ -24,7 +24,7 @@
                     <a href="#gallery-page">Gallery</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="#contact-form">Contact</a>
                 </li>
             </ul>
         </nav>
@@ -78,12 +78,29 @@
             <img src="assets/img/whiterender.jpg" alt="white hexi frame render">
             <img src="assets/img/whitesway.jpg" alt="black Sway with white hexi frame">
             <img src="assets/img/yellowframe.jpg" alt="black 908 with yellow soles and hexi frame render">
-
-
         </div>
     </section>
             
-    <Section>Contact form</Section>
+    <Section id="contact-form" class="content-container">
+        <div id="contact-title">
+            <h2>Contact Us</h2>
+        </div>
+        <form id="form-content" action="https://formdump.codeinstitute.net/" method="post">
+            <label for="fname">First Name:</label>
+            <input id="fname" required="" type="text" name="firstname" placeholder="Your name..">
+
+            <label for="lname">Last Name:</label>
+            <input id="lname" name="lastname" required="" type="text" placeholder="Your last name..">
+
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" required="" placeholder="Your Email Address..">
+
+            <label for="subject">Message:</label>
+            <textarea name="subject" id="subject" placeholder="Enter your message here.." style="height: 200px;"></textarea>
+
+            <input type="submit" value="SUBMIT">
+        </form>
+    </Section>
 
     
 </body>

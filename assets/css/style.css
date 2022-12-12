@@ -87,7 +87,7 @@ body {
     letter-spacing: 0.1rem;
 }
 
-#big-text h2, h3 {
+#big-text h2 {
     font-size: 650%;
     font-weight: 600;
     letter-spacing: 0.44rem;
@@ -117,12 +117,14 @@ body {
     width: 45%;
     font-size: 150%;
     float: left;
+    /* border: 1px solid white; */
 }
 
 #right-blurb {
     float: right;
     font-size: 150%;
     width: 45%;
+    /* border: 1px solid white; */
 }
 
 #left-blurb p {
@@ -138,10 +140,83 @@ body {
 
 
 
+/* Tablet styling */
+@media screen and (max-width:1247px) {
+    .head-container {
+        width: 90%;
+    }
+    
+    .content-container {
+        width: 90%;
+        display: block;
+    }
 
-/* @media screen and (max-width:1200px) {
+    #printer-image-container {
+        width: 100%;
+        /* align-self: center; */
+    }
+
+    #big-text {
+        width: 100%;
+        float: left;
+    }
+}
+
+
+
+/* Mobile styling */
+@media screen and (max-width: 700px) {
     .head-container {
         width: 100%;
     }
+
+    .content-container {
+        width: 100%;
+    }
+
+    #printer-image-container {
+        width: 100%;
+        align-self: center;
+    }
+
+    #big-text {
+        width: 100%;
+    }
+
+    #big-text h1 {
+        font-size: 325%;
+        padding-bottom: 1rem;
+    }
+
+    #big-text h2 {
+        font-size: 325%;
+    }
+
+    #left-blurb {
+        width: 90%;
+    }
+   
+    #right-blurb {
+        width: 90%;
+        float: left;
+    }
+
+    #left-blurb p {
+        text-align: left;
+    }
+
+    #right-blurb p {
+        text-align: left;
+    }
+
+    #big-text #block-text {
+        width: 90%;
+        margin-top: 10px;
+        margin-left: 0;
+    }
     
-} */
+    #line-break {
+        width: 90%;
+    }
+}
+

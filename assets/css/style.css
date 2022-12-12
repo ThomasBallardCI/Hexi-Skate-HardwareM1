@@ -19,6 +19,7 @@ body {
     width: 1248px;   
     height: 75px;
     margin: 0 auto;
+    padding-bottom: 50px;
 }
 
 #logo {
@@ -59,10 +60,10 @@ body {
     margin: 0 auto;
     height: auto;
     display: flex;
+    align-self: center;
 }
 
 #printer-image-container {
-    /* border: 1px solid white; */
     width: 50%;
 }
 
@@ -117,14 +118,12 @@ body {
     width: 45%;
     font-size: 150%;
     float: left;
-    /* border: 1px solid white; */
 }
 
 #right-blurb {
     float: right;
     font-size: 150%;
     width: 45%;
-    /* border: 1px solid white; */
 }
 
 #left-blurb p {
@@ -138,6 +137,42 @@ body {
 }
 
 
+/* Gallery section styling from here */
+#gallery-page {
+    display: block;
+}
+
+#gallery-title {
+    font-size: 650%;
+    line-height: 2;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline #7037ab 5px;
+    text-underline-offset: 15px;
+    color: #f0f0f0;
+}
+
+#gallery-title h2 {
+    font-weight: 600;
+}
+
+#gallery-images {
+    clear: both;
+    column-count: 3;
+    column-gap: 4px;
+    margin-top: 25px;
+}
+
+#gallery-images img {
+    width: 100%;
+    border-radius: 2%;
+}
+
+#gallery-images img:hover {
+    border: 2px solid #8ED7FC;
+    transform: scale(1.1);
+}
+
 
 
 /* Tablet styling */
@@ -149,17 +184,23 @@ body {
     .content-container {
         width: 90%;
         display: block;
+        align-self: center;
     }
 
     #printer-image-container {
         width: 100%;
-        /* align-self: center; */
     }
 
     #big-text {
         width: 100%;
         float: left;
     }
+
+    /* Gallery styling tablet */
+    #gallery-title {
+        font-size: 325%;
+        font-weight: 400;
+}
 }
 
 
@@ -172,11 +213,11 @@ body {
 
     .content-container {
         width: 100%;
+        align-self: center;
     }
 
     #printer-image-container {
         width: 100%;
-        align-self: center;
     }
 
     #big-text {
@@ -218,5 +259,15 @@ body {
     #line-break {
         width: 90%;
     }
+
+    /* Gallery styling mobile */
+#gallery-images {
+    column-count: 2;
 }
+
+#gallery-title {
+    font-size: 250%;
+}
+}
+
 

@@ -246,7 +246,7 @@ input[type=submit]:hover {
     
     .content-container {
         width: 90%;
-        display: block;
+        display: inline-block;
         align-self: center;
         padding-top: 1em;
     }

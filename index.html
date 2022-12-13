@@ -21,17 +21,41 @@
         <nav>
             <ul id="menu">
                 <li>
-                    <a class="active" href="index.html">Home</a>
+                    <a class="btn active" href="index.html">Home</a>
                 </li>
                 <li>
-                    <a href="#gallery-page">Gallery</a>
+                    <a class="btn" href="#gallery-page">Gallery</a>
                 </li>
                 <li>
-                    <a href="#contact-form">Contact</a>
+                    <a class="btn" href="#contact-form">Contact</a>
                 </li>
             </ul>
         </nav>
         </div>
+        
+        <!-- JS script for nav active styling when clicked to move to new section W3schools underline in blue when clicked -->
+        <script>
+            // Get the container element
+            var btnContainer = document.getElementById("menu");
+
+            // Get all buttons with class="btn" inside the container
+            var btns = btnContainer.getElementsByClassName("btn");
+
+            // Loop through the buttons and add the active class to the current/clicked button
+            for (var i = 0; i < btns.length; i++) {
+                btns[i].addEventListener("click", function() {
+                var current = document.getElementsByClassName("active");
+
+            // If there's no active class
+            if (current.length > 0) {
+              current[0].className = current[0].className.replace(" active", "");
+            }
+
+            // Add the active class to the current/clicked button
+            this.className += " active";
+            });
+            }
+        </script>
     </header>
 
     <!-- Home/splash page code -->

@@ -240,11 +240,49 @@ input[type=submit]:hover {
     background-color: #8ED7FC;
   }
 
+  /* Footer Styling */
+.foot-container {
+    background-color: #35363a;
+    width: 1248px;   
+    height: 25px;
+    margin: 0 auto;
+}
+
+#socials-footer {
+    font-size: 125%;
+    list-style-type: none;
+    float: right;
+}
+
+#socials-footer li {
+    float: left;
+    padding-left: 25px;
+    padding-right: 10px;
+}
+
+#socials-footer a:visited {
+    color: #f0f0f0;
+}
+
+#socials-footer a {
+    color: #f0f0f0;
+}
+
+#socials-footer a:hover {
+    color: #8ED7FC;
+}
+
+#socials-footer-text {
+    color: #f0f0f0;
+    font-weight: 100;
+}
+
 
 /* Tablet styling */
 @media screen and (max-width:1247px) {
     .head-container {
-        width: 90%;   
+        width: 90%;
+        height: 25px; 
     }
     
     .content-container {
@@ -276,6 +314,11 @@ input[type=submit]:hover {
 
     #contact-title h2 {
         font-size: 325%;
+    }
+
+    .foot-container {
+        width: 90%;
+        height: 25px; 
     }
 }
 
@@ -354,6 +397,11 @@ input[type=submit]:hover {
 #contact-title h2 {
     font-size: 250%;
     padding-bottom: 16px;
+}
+
+.foot-container {
+    width: 90%;
+    height: 25px;
 }
 }
 

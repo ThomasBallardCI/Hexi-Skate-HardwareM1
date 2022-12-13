@@ -111,6 +111,7 @@ body {
 }
 
 #big-text #block-text {
+    font-display: block;
     background-color: #f0f0f0;
     width: 45%;
     color: #7037ab;

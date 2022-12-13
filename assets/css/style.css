@@ -158,12 +158,12 @@ body {
 }
 
 #gallery-title {
-    font-size: 400%;
+    font-size: 300%;
     line-height: 2;
     text-align: center;
     text-transform: uppercase;
-    text-decoration: underline #7037ab 5px;
-    text-underline-offset: 15px;
+    text-decoration: underline #7037ab 2.5px;
+    text-underline-offset: 7.5px;
     color: #f0f0f0;
     letter-spacing: 0.44rem;
     font-weight: 400;
@@ -205,8 +205,8 @@ body {
     line-height: 2;
     text-align: center;
     text-transform: uppercase;
-    text-decoration: underline #7037ab 5px;
-    text-underline-offset: 15px;
+    text-decoration: underline #7037ab 2.5px;
+    text-underline-offset: 7.5px;
     color: #f0f0f0;
     font-weight: 600;
     letter-spacing: 0.44rem;
@@ -315,7 +315,7 @@ input[type=submit]:hover {
 
     /* Gallery styling tablet */
     #gallery-title {
-        font-size: 325%;
+        font-size: 250%;
         font-weight: 400;
     }
 
@@ -406,7 +406,8 @@ input[type=submit]:hover {
 }
 
     #gallery-title {
-    font-size: 250%;
+    font-size: 175%;
+    margin-top: 1em;
 }
 
 /* Contact form styling mobile */

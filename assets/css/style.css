@@ -70,13 +70,16 @@ body {
 #printer-image-container {
     width: 50%;
     border-radius: 20px;
+    overflow: hidden;
 }
 
 #printer-image {
     width: 100%;
     border-radius: 20px;
+
 }
 
+/* Large text next to image */
 #big-text {
     width: 50%;
     text-transform: uppercase;

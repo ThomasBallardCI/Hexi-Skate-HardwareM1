@@ -316,6 +316,7 @@ input[type=submit]:hover {
         font-size: 325%;
     }
 
+    /* Footer styling tablet */
     .foot-container {
         width: 90%;
         height: 25px; 
@@ -389,7 +390,7 @@ input[type=submit]:hover {
     font-size: 250%;
 }
 
-/* Contact form styling tablet */
+/* Contact form styling mobile */
 #contact-form {
     width: 90%;
 }
@@ -399,6 +400,7 @@ input[type=submit]:hover {
     padding-bottom: 16px;
 }
 
+/* Footer Styling mobile */
 .foot-container {
     width: 90%;
     height: 25px;

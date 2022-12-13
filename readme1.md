@@ -11,3 +11,5 @@ tutor recommened JS for setting active syling to nav elements when clicked movin
 Switched footer section to div on recomendation from HTML validator warning
 
 added semicolon to copyright icon text after HTML validation error
+
+converted all images to webp after lighthouse optimisation recomendation and re-uploaded

@@ -147,13 +147,15 @@ body {
 }
 
 #gallery-title {
-    font-size: 650%;
+    font-size: 400%;
     line-height: 2;
     text-align: center;
     text-transform: uppercase;
     text-decoration: underline #7037ab 5px;
     text-underline-offset: 15px;
     color: #f0f0f0;
+    letter-spacing: 0.44rem;
+    font-weight: 400;
 }
 
 #gallery-title h2 {
@@ -188,7 +190,7 @@ body {
 }
 
 #contact-title h2 {
-    font-size: 650%;
+    font-size: 400%;
     line-height: 2;
     text-align: center;
     text-transform: uppercase;
@@ -196,6 +198,7 @@ body {
     text-underline-offset: 15px;
     color: #f0f0f0;
     font-weight: 600;
+    letter-spacing: 0.44rem;
 }
 
 input[type=text], select, textarea {

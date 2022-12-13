@@ -12,14 +12,22 @@ body {
     font-family: 'Open Sans', sans-serif;
     background-color: #35363a;
     width: 100%;
-    color: #f0f0f0; 
+    color: #f0f0f0;
 }
 
 /* Nav bar styling */
+.head-bar {
+    width: 100vw;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: #35363a;
+    height: 75px;
+}
+
 .head-container {
     background-color: #35363a;
-    width: 1248px;   
-    height: 75px;
+    width: 1248px;
     margin: 0 auto;
 }
 
@@ -64,7 +72,7 @@ body {
     height: auto;
     display: flex;
     align-self: center;
-    padding-top: 4.5em;
+    padding-top: 7em;
 }
 
 #printer-image-container {
@@ -292,7 +300,7 @@ input[type=submit]:hover {
         width: 90%;
         display: inline-block;
         align-self: center;
-        padding-top: 1em;
+        padding-top: 2.5em;
     }
 
     #printer-image-container {
@@ -310,9 +318,15 @@ input[type=submit]:hover {
         font-size: 325%;
         font-weight: 400;
     }
+
+    #gallery-page {
+        padding-bottom: 10em;
+    }
+
     /* Contact form styling tablet */
     #contact-form {
         width: 90%;
+        padding-bottom: 5em;
     }
 
     #contact-title h2 {
@@ -331,12 +345,13 @@ input[type=submit]:hover {
 @media screen and (max-width: 700px) {
     .head-container {
         width: 100%;
+        height: 25px;
     }
 
     .content-container {
         width: 90%;
         align-self: center;
-        padding-top: 1em;
+        padding-top: 2.5em;
     }
 
     #printer-image-container {
@@ -359,6 +374,7 @@ input[type=submit]:hover {
 
     #left-blurb {
         width: 90%;
+        padding-bottom: 1em;
     }
    
     #right-blurb {
@@ -396,11 +412,13 @@ input[type=submit]:hover {
 /* Contact form styling mobile */
 #contact-form {
     width: 90%;
+    padding-top: 3.5em;
+    padding-bottom: 0em;
 }
 
 #contact-title h2 {
     font-size: 250%;
-    padding-bottom: 16px;
+    /* padding-bottom: 16px; */
 }
 
 /* Footer Styling mobile */

@@ -9,5 +9,3 @@ tutor guidence for sticky fixed header
 tutor recommened JS for setting active syling to nav elements when clicked moving to each section W3Schools - https://www.w3schools.com/howto/howto_js_active_element.asp
 
 Switched footer section to div on recomendation from HTML validator warning
-
-added semicolon to copyright icon text after HTML validation error

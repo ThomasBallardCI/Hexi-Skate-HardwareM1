@@ -252,7 +252,7 @@ input[type=submit]:hover {
     }
 
     #printer-image-container {
-        width: 100%;
+        width: 110%;
         padding-bottom: 2em;
     }
 
@@ -284,13 +284,13 @@ input[type=submit]:hover {
     }
 
     .content-container {
-        width: 100%;
+        width: 90%;
         align-self: center;
         padding-top: 1em;
     }
 
     #printer-image-container {
-        width: 100%;
+        width: 110%;
         padding-bottom: 1em;
     }
 

@@ -425,7 +425,7 @@ input[type=submit]:hover {
 }
 
 /* Galaxy fold styling for nav */
-@media screen and (max-width: 280px) {
+@media screen and (max-width: 320px) {
     .head-container{
         font-size: 70%;
     }

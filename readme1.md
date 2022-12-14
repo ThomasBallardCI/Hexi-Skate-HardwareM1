@@ -32,3 +32,5 @@ NO ERRORS RUNNING MY STLE.CSS
 
 
 changed background color darker for a better contrast between content and background for readability and accessability - from #35363a to #1E1E1E
+
+breakpoint added for keep nav aligned for galaxy fold 280px screen - Known issue content apears to the left with content showing on the right when scrolling. No time to fix

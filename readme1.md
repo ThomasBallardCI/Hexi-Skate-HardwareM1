@@ -13,3 +13,12 @@ Using lighthouse to run and check for optimisations
 JS used to scroll to top of page on refresh from https://www.designcise.com/web/tutorial/how-to-force-scroll-to-the-top-of-the-page-on-page-reload-using-javascript
 
 meta tags added using WS3schools as a guide https://www.w3schools.com/tags/tag_meta.asp
+
+adjustments to HTML from lighthouse reports
+ADDED ARIA-LABEL TO FOOTER SOCIAL ICONS
+ADDED ADDITIONAL META DATA
+CONVERTED IMAGES FROM JPG TO WEBP
+
+ADJUSTMENTS TO HTML FROM VALIDATOR REPORT
+ADDED ; TO COPYRIGHT ICON
+CHANGED FOOTER CONTAINER FROM SECTION TO DIV

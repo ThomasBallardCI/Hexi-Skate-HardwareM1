@@ -157,39 +157,27 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 - [HTML Validator](https://validator.w3.org/)
 
-    - result for index.html
-      ![HTML results index](documentation/validation-results/html-validation-result-1.png)
-    - result for menu.html
-      ![HTML results menu](documentation/validation-results/html-validation-result-2.png)
-    - result for contact.html
-      ![HTML results contact](documentation/validation-results/html-validation-result-3.png)
+    - Result for index.html (whole single page website)
 
-    - Full validation results are available on github here :
+      ![HTML results index](documentation/validation-results/my-html-report.jpg)
 
-        - <a href="https://github.com/elainebroche-dev/ms1-thrive/blob/master/documentation/validation-results/html-validation-results-index.pdf" target="_blank">HTML Results - Home Page</a>
-
-        - <a href="https://github.com/elainebroche-dev/ms1-thrive/blob/master/documentation/validation-results/html-validation-results-menu.pdf" target="_blank">HTML Results - Menu Page</a>
-
-        - <a href="https://github.com/elainebroche-dev/ms1-thrive/blob/master/documentation/validation-results/html-validation-results-contact.pdf" target="_blank">HTML Results - Contact Page</a>
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-    - result for styles.css 
-      ![CSS results 1](documentation/validation-results/css-validation-result-1.png)
-      ![CSS results 2](documentation/validation-results/css-validation-result-2.png)
+    - Result for my style.css 
+      ![My CSS result](documentation/validation-results/my-css-style-sheet-report.jpg)
 
-      The warnings are due to 1) import of the Google fonts and 2) a webkit extension for Safari support of the flip-card effect used on the home page.
+    - Result for website css
+      ![Site CSS result](documentation/validation-results/font-awesome-css-errors.jpg)
+    The warnings seem to be due to import of the Font awesome icons.
 
-    - Full validation results are available on github here :
-
-        - <a href="https://github.com/elainebroche-dev/ms1-thrive/blob/master/documentation/validation-results/css-validation-results.pdf" target="_blank">CSS Results - styles.css</a>
 
 ### Browser Compatibility
 
 - Testing has been carried out on the following browsers :
-    - Chrome Version 90.0.4430.212 (Official Build) (64-bit)
+    - Chrome Version Version 108.0.5359.99 (Official Build) (64-bit)
     - Firefox Version 88.0.1 (64-bit)
-    - Edge Version 90.0.818.62 (Official build) (64-bit)
+    - Microsoft Edge Version 108.0.1462.46 (Official build) (64-bit)
     - Safari on macOS Catalina (Safari  Version 14.0.3)
     
 ### Test Cases and Results

@@ -12,4 +12,4 @@ Using lighthouse to run and check for optimisations
 
 JS used to scroll to top of page on refresh from https://www.designcise.com/web/tutorial/how-to-force-scroll-to-the-top-of-the-page-on-page-reload-using-javascript
 
-
+meta tags added using WS3schools as a guide https://www.w3schools.com/tags/tag_meta.asp

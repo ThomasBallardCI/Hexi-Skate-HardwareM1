@@ -98,31 +98,39 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 ## Design
 
+-   ### Website style
+    - The style of the website chosen was single-page format. This allows the user to not only navigate to each section from the nav bar but also scroll through the entire website at their leisure.
+
 -   ### Imagery
-    -   The hero and large background images have been chosen because they are eye-catching, fresh and bright.  The citrus and light pastel colours in the images were chosen to help convey a sense of energy, health and freshness.  The images depict fruit to align with the main business goal of selling juices and smoothies and were chosen for their "simplicity" (- e.g. a single type of fruit or repeating theme) to help keep the site clear and easy to use.
+    -  The large and bright 3D Printer image has been chosen because it is eye-catching and bright this draws the user's line of sight and shows the user the technologies used. The Purple and light colors in the image background were chosen to help convey a parody of the company's logo. The Large bright purple font takes the user's eyes naturally across the screen and guides them down to the information about what the company does and the materials they use.
 
 -   ### Colour Scheme
-    -  A citrus/pastel palette was chosen to convey a fresh, energetic mood.  The colours picked were inspired by a palette from [Lily Bug Design](https://www.lilybugdesign.co.nz/colour-wall)
+    -  A light airy and modern color scheme is used to keep parody with the companies existing logo color scheme. Utilising a dark backgroud for the website helps the content "pop" making it easier on the eyes than a white background, whilst providing a contrast with the website content to help keep readability high.
 
-        ![Colour Palette](documentation/supp-images/citruspalette.png)
+        ![Colour Palette](documentation/supp-images/color-theme.jpg)
 
 -   ### Typography
-    -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
+    -   Google Fonts were used to import Open Sans and sans-seriff fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
 
 
 -   ### Wireframes
 
-    -   #### Main Page Wireframes
+    -   #### All Wireframes
 
-        ![Main](documentation/wireframes/index-page.png)
+        ![All](documentation/wireframes/all-wireframes.jpg)
 
-    -   #### Menu Page Wireframes
+    -   #### Desktop platform Wireframes
 
-        ![Menu](documentation/wireframes/menu-page.png)
+        ![Desktop](documentation/wireframes/desktop-wireframe.jpg)
 
-    -   #### Contact Page Wireframes
+    -   #### Tablet platform Wireframes
 
-        ![Contact](documentation/wireframes/contact-page.png)
+        ![Tablet](documentation/wireframes/tablet-wireframe.jpg)
+
+    -   #### Mobile platform Wireframes
+
+        ![Mobile](documentation/wireframes/mobile-wireframe.jpg)
+
 
 ## Technologies Used
 
@@ -130,15 +138,17 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [Java Script](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs Used
 
--   [Google Fonts:](https://fonts.google.com/) was used to import the 'Lato' and 'Oswald' fonts into the style.css file which are used on all pages of the project.
--   [Font Awesome:](https://fontawesome.com/) was used to add icons for aesthetic and UX purposes.
--   [Git:](https://git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
--   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
--   [Microsoft Paint 3D:](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab) was used for resizing images and editing photos for the website.
--   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
+-   [Google Fonts:](https://fonts.google.com/) was used to import the 'Open Sans' font into the style.css file which are used on all pages of the project.
+-   [Font Awesome:](https://fontawesome.com/) was used to add icons for aesthetic and UX purposes in the main page and footer.
+-   [Gitpod:](https//Gitpod.io) was used for version control and as a VSCode workspace to code, commit and Push to GitHub.
+-   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Gitpod.
+-   [AnyWebP](https://anywebp.com/convert-to-webp.html) was used to convert and compress images used on the website
+-   [Adobe XD](https://www.adobe.com/creativecloud.html) was used to create the wireframes during the design process.
+-   [Adobe Photoshop](https://www.adobe.com/creativecloud.html) was used to create the 3D printer image on the main page.
     
 
 ## Testing

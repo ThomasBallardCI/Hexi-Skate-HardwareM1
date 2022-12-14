@@ -29,3 +29,6 @@ REMOVED "FONT-DISPLAY: BLOCK;" REPORT STATED DOESN'T EXIST LINE 114
 VALIDATOR SHOWING ERRORS IN FONT-AWESOME CSS
 
 NO ERRORS RUNNING MY STLE.CSS
+
+webkit to stroke outline purple text for improved visibility
+https://www.youtube.com/shorts/Hx1p1vQeHCg

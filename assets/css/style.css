@@ -101,6 +101,7 @@ body {
     line-height: 0.65em;
     padding-bottom: 1.65rem;
     letter-spacing: 0.1rem;
+    -webkit-text-stroke: 1px #f0f0f0;
 }
 
 #big-text h2 {

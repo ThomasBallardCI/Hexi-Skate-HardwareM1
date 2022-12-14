@@ -36,8 +36,12 @@
         </nav>
         </div>
         
-        <!-- JS script for nav active styling when clicked to move to new section W3schools underline in blue when clicked -->
+        <!-- JS script for nav active styling when clicked to move to new section W3schools underline in blue when clicked And scroll to top on page reload -->
         <script>
+            // Page scrolls to top on reload
+            window.onbeforeunload = function () {
+            window.scrollTo(0, 0);
+            }
             // Get the container element
             var btnContainer = document.getElementById("menu");
 

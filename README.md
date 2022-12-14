@@ -74,26 +74,27 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 - __Footer__
 
-    - The menu page gives a list of the products that can be purchased at THRIVE.  For ease of use and clarity for the user the products have been split into three panels, one for 'Fresh Juices', one for 'Smoothies', and the third for 'Healthy Snacks and Hot Drinks'.  Pricing and ingredients are also shown.
-    
-    - For ease of use, a consistent look and feel is maintained through the use of the same background image as is used for the landing image on the main page, and in applying the same background colour to the menu panels as is used on the overlay text area on the main page.  Text colour is kept simple for readability and to minimise distraction.
+    - The footer bar sits at the end of the page sections at the bottom of the viewport. Holding copyright information on the left with social media icons for Hexi Skate Hardware's Instagram, Facebook and Twitter accounts on the right. The social media Icons highlight in blue when hovering over them and open the social media websites in separate tabs within the browser for the user to explore further. This coloring stays inline with the rest of the sites theme.
 
-       ![Footer](documentation/supp-images/f06-menu.png)
+    
+      ![Footer](documentation/supp-images/footer.jpg)
 
 - __How these features support the User Stories__
 
-    - The User Stories in the [User Experience (UX)](#user-experience-ux) part of this document are numbered and categorised into groups A (first time visitor), B (returning visitor) and C (frequent visitor).  The existing features are listed above as F01 to F08.  Below is a traceability matrix cross-referencing the user stories with the features, illustrating which features support which stories :
+    - The current features in the website help users achieve the user stories mentioned in the [User Experience (UX)](#user-experience-ux) part of this document. They are clear, themed and colored consistantly across the whole site and link to where the user wants to go whilst the information on the site is easily readable and to the point.
 
-    ![User Story Feature Matrix](documentation/supp-images/us-feat-matrix.png)
 
 ### Features which could be implemented in the future
 
-- __Company Timeline__
-    - A 'Company Timeline' page could be added to provide more information on the evolution of the business for users who would like to know more about the origins of the company, its ethos and its involvement with the community.
+- __Direct Ecommerce store page__
+    - A 'Store' page could be added to provide an easier and more direct way for users to browse and purchase in house designed items that are not custom to the users needs.
 
 - __Navigation bar improvements__
-    - The functionality of the navigation bar could be extended to make it "sticky" so that it would be available to the user without scrolling.
-    - A hamburger menu could be implemented to save space on smaller screens.
+    - The navigation bar could be switched to a hamburger style icon to help save space when additional pages like the store are added on smaller devices such as tablet and mobile
+
+- __Image rotator__
+    - An image rotator on the main splash page to cycle through "featured" designs and items available would help users instantly see what's new.   
+
 
 ## Design
 

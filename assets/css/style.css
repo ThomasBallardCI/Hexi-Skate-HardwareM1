@@ -13,6 +13,7 @@ body {
     background-color: #35363a;
     width: 100%;
     color: #f0f0f0;
+    overflow-x: hidden;
 }
 
 /* Nav bar styling */

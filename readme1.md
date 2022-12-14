@@ -7,3 +7,5 @@ A complete guide to flex box https://css-tricks.com/snippets/css/a-guide-to-flex
 tutor guidence for sticky fixed header
 
 tutor recommened JS for setting active syling to nav elements when clicked moving to each section W3Schools - https://www.w3schools.com/howto/howto_js_active_element.asp
+
+Using lighthouse to run and check for optimisations

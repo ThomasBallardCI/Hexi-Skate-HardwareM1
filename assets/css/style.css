@@ -48,9 +48,8 @@ body {
 
 #menu li {
     float: left;
-    padding-left: 25px;
     line-height: 75px;
-    padding-right: 10px;
+    padding: 0 10px 0 25px;
 }
 
 #menu a {
@@ -117,8 +116,7 @@ body {
     width: 45%;
     color: #7037ab;
     text-align: center;
-    margin-top: -10px;
-    margin-left: 0.6em;
+    margin: -10px 0 0 0.6em;
     font-size: 90%;
 }
 
@@ -219,8 +217,7 @@ input[type=text], select, textarea {
     border-radius: 4px;
     box-sizing: border-box;
     border: 2px solid #8ED7FC;
-    margin-top: 6px;
-    margin-bottom: 16px;
+    margin: 6px 0 16px 0;
     resize: vertical;
     align-self: center;
     color: #7037ab;
@@ -231,8 +228,7 @@ input[type=email], select, textarea {
     padding: 12px;
     border-radius: 4px;
     box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
+    margin: 6px 0 16px 0;
     resize: vertical;
     align-self: center;
     color: #7037ab;
@@ -268,8 +264,7 @@ input[type=submit]:hover {
 
 #socials-footer li {
     float: left;
-    padding-left: 25px;
-    padding-right: 10px;
+    padding: 0 10px 0 25px;
 }
 
 #socials-footer a:visited {

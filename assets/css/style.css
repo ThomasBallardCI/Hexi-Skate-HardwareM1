@@ -10,7 +10,7 @@
 /* font style, background color and width of main body */
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #35363a;
+    background-color: #1e1e1e;
     width: 100%;
     color: #f0f0f0;
     overflow-x: hidden;
@@ -22,12 +22,12 @@ body {
     position: sticky;
     top: 0;
     z-index: 1;
-    background-color: #35363a;
+    background-color: #1e1e1e;
     height: 75px;
 }
 
 .head-container {
-    background-color: #35363a;
+    background-color: #1e1e1e;
     width: 1248px;
     margin: 0 auto;
 }
@@ -249,7 +249,7 @@ input[type=submit]:hover {
 
   /* Footer Styling */
 .foot-container {
-    background-color: #35363a;
+    background-color: #1e1e1e;
     width: 1248px;   
     height: 25px;
     margin: 0 auto;

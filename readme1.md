@@ -30,3 +30,5 @@ VALIDATOR SHOWING ERRORS IN FONT-AWESOME CSS
 
 NO ERRORS RUNNING MY STLE.CSS
 
+
+changed background color darker for a better contrast between content and background for readability and accessability - from #35363a to #1E1E1E

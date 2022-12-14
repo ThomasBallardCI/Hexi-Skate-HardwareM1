@@ -164,12 +164,24 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-    - Result for my style.css 
+    - Result for my style.css
+
       ![My CSS result](documentation/validation-results/my-css-style-sheet-report.jpg)
 
     - Result for website css
+
       ![Site CSS result](documentation/validation-results/font-awesome-css-errors.jpg)
     The warnings seem to be due to import of the Font awesome icons.
+
+- [Light House Validation](https://developer.chrome.com/docs/lighthouse/overview/)
+
+    - Result for desktop
+
+      ![Desktop Lighthouse](documentation/validation-results/lighthouse-score-desktop.jpg)
+
+    - Result for Mobile
+
+      ![Mobile Lighthouse](documentation/validation-results/lighthouse-score-mobile.jpg)  
 
 
 ### Browser Compatibility

@@ -190,69 +190,82 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
     - Chrome Version Version 108.0.5359.99 (Official Build) (64-bit)
     - Firefox Version 88.0.1 (64-bit)
     - Microsoft Edge Version 108.0.1462.46 (Official build) (64-bit)
-    - Safari on macOS Catalina (Safari  Version 14.0.3)
+    - Safari on macOS Catalina (Safari  Version 16.2)
     
 ### Test Cases and Results
 
-- The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised (click to open iamge):
+- To completely test the website I performed the following manual testing on the various browsers mentioned above and devices (windows desktop, Samsung Galaxy S20+, iPhone). 
 
-  ![Test Results](documentation/supp-images/test-cases.png)
+  I also went through the website using Chromes developer tools to  ensure the site was responsive and aligned correctly on 
+smaller desktops (laptops), tablets and mobile devices.
+
+_Nav bar testing_
+
+- Test each link on the nav bar. Each link took me to the relevant section required, the Logo took me home as expected. The nav bar stayed in place when scrolling ensuring the user has access to navigation at all times. Nav "active" page effect works as expected when clicking between pages and underlines blue.
+
+_Footer testing_
+
+- Test each social media Icon. Each social media icon link opened the relevant social media website in a new tab as expected when clicked. Footer behaved how I expected appearing at the bottom of the site when the user scrolls or navigates down to the last section (Contact).
+
+_Nav and footer hover effects testing_
+
+- Test the expected result of the hover effect on the nav links (Home, Gallery, Contact) as well as the social media icon links on the footer. All nav links and social media icons behaved as expected when hovering over with the mouse, Nav links were underlined white and the social icons lit up blue as expected
+
+_Gallery image hover testing_
+
+- Test the expected result of the hover effect on the Gallery images. All imaged behaved as expected when hovering over with the mouse. All images increased in scale by 10% when hovering.
 
 ### Known bugs
 
-- My mentor reported an issue with the "Send Message" button when viewed on an iphone during a review meeting.  Neither of us has since been able to re-create this using the browser dev tools but I am adding an image of the issue here for completeness :
+- Nav bar doesn't update when scrolling between the sections of the webpage when moving down. This requires Java Script from what I could find out and the code examples found I couldn't get working and had to drop the idea due to time constraints and a lack of Java Script knowledge.
 
-  ![Bug01](documentation/supp-images/bug01-send-message-issue.png)
 
 ## Deployment
 
 ### How this site was deployed
 
-- In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu 
-- From the source section drop-down menu, select the Master Branch
-- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
-- Any changes pushed to the master branch will take effect on the live project
+- In the GitHub repository, navigate to the Settings tab, then choose Pages from the left-hand menu.
+- From the source section drop-down menu, select the "Deploy from a branch" option.
+- From the "Branch" section below the previous source drop-down select "Main" from the left drop-down list and "/(root)" from the right drop-down and click "save".
+- Once the "Main" branch and "/(root)" have been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment with a link appearing at the top of the "GitHub Pages" section along with a "visit site" button to the right. Clicking the button will take you to the deployed website.
+- Any changes pushed to the "Main" branch will take effect on the live project.
 
-  The live link can be found here - [THRIVE Juices and Smoothies](https://elainebroche-dev.github.io/ms1-thrive/index.html) 
+  The live link can be found here - [HeXi Skate Hardware](https://thomasballardci.github.io/Hexi-Skate-HardwareM1//index.html) 
 
 ### How to clone the repository
 
-- Go to the https://github.com/elainebroche-dev/ms1-thrive repository on GitHub 
-- Click the "Code" button to the right of the screen, click HTTPs and copy the link there
+- Go to the https://github.com/ThomasBallardCI/Hexi-Skate-HardwareM1 repository on GitHub 
+- Click the "Code" button to the right of the screen, click HTTPS and copy the link there
 - Open a GitBash terminal and navigate to the directory where you want to locate the clone
-- On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
+- On the command line, type "git clone" then paste in the copied URL and press the Enter key to begin the cloning process
+
+    Documentation on cloning the repository can be found here - [GitHub Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
  
 ## Credits 
 
-### Content 
-- Content on the menu page was loosely based on menus on [Jump Juice Bar](https://www.jumpjuicebar.com/menu-nutrition-smoothies/)
-- All other content was written by the developer
 
 ### Code
-- Code on how to do the fade-in of the hero image came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
-- Code on how to do a rounded button as seen on the Home page was based on code on : [W3Schools Rounded button tutorial](https://www.w3schools.com/howto/howto_css_round_buttons.asp)
-- Code on how to do the flip-card effect on the Home page was based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp)
-- Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/)
-- Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
+- Initial HTML structuring was inspired by the Love Running Project from Code Insitute in the CSS essentials module.
+
+- Information on understanding flexbox to display:flex .content-container was taken from : [CSS Tricks a guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+- Sticky header was done on advice from Code Institute tutor.
+
+- Code on how to set "active" page on header when clicking link between sections using Java Script was on advice from Code Insitute tutor and taken from W3Schools and adjusted for my needs : [W3Schools How to JS active Element](https://www.w3schools.com/howto/howto_js_active_element.asp)
+
+- Contact form used from W3Schools and adjusted to fit my needs and color theme from here : [W3Shools How to CSS Contact form](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
 ### Media 
-- The colours used were based on a citrus/pastel palette from this website : [Lily Bug Design - Colour Wall](https://www.lilybugdesign.co.nz/colour-wall) 
-- The icons in the header, footer and on the back of the flip-cards were taken from [Font Awesome](https://fontawesome.com/)
+- The colours used were based on the original logo design I created that is displayed in the header. ![Color Palette](documentation/supp-images/color-theme.jpg)
+
+- The icons in the footer and Main page sub titles taken from : [Font Awesome](https://fontawesome.com/)
+
 - The fonts used were imported from [Google Fonts](https://fonts.google.com/)
 
-- All images were downloaded from [Unsplash](https://unsplash.com) :
+- All gallery images were taken from my personal instagram account : [Instagram](https://www.instagram.com/hexiskatehardware/)
 
-    - <a href="https://images.unsplash.com/photo-1546548970-71785318a17b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80">Main (hero/landing) image and background image</a> photo by <a href="https://unsplash.com/@brunabranco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bruna Branco</a> 
-
-    - <a href="https://unsplash.com/photos/9aOswReDKPo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" target="_blank" rel="noopener">Avocado</a> photo by <a href="https://unsplash.com/@thoughtcatalog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener">Thought Catalog</a>
-
-    - <a href="https://images.unsplash.com/photo-1595475207225-428b62bda831?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" target="_blank" rel="noopener">Watermelon</a> photo by <a href="https://unsplash.com/@amyshamblen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener">Amy Shamblen</a> 
-
-    - <a href="https://images.unsplash.com/photo-1564769610726-59cead6a6f8f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=448&q=80" target="_blank" rel="noopener">Sliced oranges</a> photo by <a href="https://unsplash.com/@euniquedeeann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener">Eunique Deeann</a> 
-
-    - <a href="https://images.unsplash.com/photo-1559181567-c3190ca9959b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80" target="_blank" rel="noopener">Cherries</a> photo by <a href="https://unsplash.com/@picoftasty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener">Mae Mu</a> 
-
+- 3D Printer image on main page taken from StickPNG and edited background in myself in photoshop : [StickPNG 3D Printer](https://www.stickpng.com/img/electronics/3d-printers/mankati-3d-printer)
 
 ### Acknowledgments
 
-- Thank you to my mentor Brian Macharia who gave me very good advice and feedback on how to plan and execute this project and who provided me with lots of pointers on resources to help select colours and images and well as resources to help with coding and testing.
+- Thank you to Code institute student support tutors for direction and help understanding issues I had and my fellow South staffs september 2022 group members for helping with testing.

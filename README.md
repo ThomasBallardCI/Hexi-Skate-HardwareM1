@@ -19,10 +19,10 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 -   ### User stories
 
-    -   #### A. First Time Visitor Goals
+    -   #### A. First-Time Visitor Goals
 
         1. I want to easily understand what service the company provides.
-        2. I want to be able to navigate throughout the site to find content I'm looking for.
+        2. I want to be able to navigate throughout the site to find the content I'm looking for.
         3. I want to be able to navigate to and view examples of the products available.
         4. I want to be able to easily find where I can contact the company and request their services.
 
@@ -47,50 +47,50 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
       ![Navbar](documentation/supp-images/navigation-bar.jpg)
     
 
--   __Landing Page image, company name and design/enviroment descriptions__
+-   __Landing Page image, company name and design/environment descriptions__
 
-    - The landing/home page includes a large image of a 3D printer on a stylistic background and large text to the right side with descriptive information on what the company does as well as the materials used. The bright purple colours and large font is intended to stand out and bring the users gaze down to the services and materials information whilst staying in line with the companies logo scheme.
+    - The landing/home page includes a large image of a 3D printer on a stylistic background and large text to the right side with descriptive information on what the company does as well as the materials used. The bright purple colours and large font is intended to stand out and bring the user's gaze down to the services and materials information whilst staying in line with the company's logo scheme.
 
       ![Landing Area](documentation/supp-images/landing-area.jpg)
 
 - __Tagline__
 
-    - The "3D PRINTED INLINE SKATE HARDWARE" tagline appears on the main page with inverted colors to stand out and let the user know exactly the services the company provides whilst keeping in theme to the company logo.
+    - The "3D PRINTED INLINE SKATE HARDWARE" tagline appears on the main page with inverted colours to stand out and let the user know exactly the services the company provides whilst keeping in theme to the company logo.
 
       ![Tagline](documentation/supp-images/tagline.jpg)
 
 - __Gallery page__
 
-    - The gallery page is to show large clear images of existing products the company has produced thus far. Hovering over the images on desktop platforms not only increases their size but also applying a bright blue border to make it easier for user to see the images clearly. On mobile and tablet platforms tapping the images provides the same bright border and size increase while staying responsive and resizing down to two columns on mobile platforms keeping images large and clear.
+    - The gallery page is to show large clear images of existing products the company has produced thus far. Hovering over the images on desktop platforms not only increases their size but also applies a bright blue border to make it easier for the user to see the images clearly. On mobile and tablet platforms tapping the images provides the same bright border and size increase while staying responsive and resizing down to two columns on mobile platforms keeping images large and clear.
     
       ![Gallery](documentation/supp-images/gallery-features.jpg)
 
 - __Contact Page__
 
-    - The contact page is a large easy-to-read contact form consisting of first name, last name, email address, message box and a submit button. The contact form has a bright blue outline around each box to help the user identify the different sections along with placeholder text to show the user what information needs to be input into each section of the form. Every section is required to be populated to help the company easily identify the user and respond via email directly. The submit button has a bright purple coloring and highlights blue when hovered over to show the user they need to click to submit the information they provided. The information provided by the user is a bright purple keeping on the theme of the company's logo for the contact form as a whole. The large style of the contact form is responsive on each platform making is easy for the user to read and fill out.
+    - The contact page is a large easy-to-read contact form consisting of first name, last name, email address, message box and a submit button. The contact form has a bright blue outline around each box to help the user identify the different sections along with placeholder text to show the user what information needs to be input into each section of the form. Every section is required to be populated to help the company easily identify the user and respond via email directly. The submit button has a bright purple colouring and highlights blue when hovered over to show the user they need to click to submit the information they provided. The information provided by the user is a bright purple keeping on the theme of the company's logo for the contact form as a whole. The large style of the contact form is responsive on each platform making it easy for the user to read and fill out.
 
 
       ![Contact form](documentation/supp-images/contact-form.jpg)
 
 - __Footer__
 
-    - The footer bar sits at the end of the page sections at the bottom of the viewport. Holding copyright information on the left with social media icons for Hexi Skate Hardware's Instagram, Facebook and Twitter accounts on the right. The social media Icons highlight in blue when hovering over them and open the social media websites in separate tabs within the browser for the user to explore further. This coloring stays inline with the rest of the sites theme.
+    - The footer bar sits at the end of the page sections at the bottom of the viewport. Holding copyright information on the left with social media icons for Hexi Skate Hardware's Instagram, Facebook and Twitter account on the right. The social media Icons highlight in blue when hovering over them and open the social media websites in separate tabs within the browser for the user to explore further. This colouring stays in line with the rest of the site's theme.
 
     
       ![Footer](documentation/supp-images/footer.jpg)
 
 - __How these features support the User Stories__
 
-    - The current features in the website help users achieve the user stories mentioned in the [User Experience (UX)](#user-experience-ux) part of this document. They are clear, themed and colored consistantly across the whole site and link to where the user wants to go whilst the information on the site is easily readable and to the point.
+    - The current features in the website help users achieve the user stories mentioned in the [User Experience (UX)](#user-experience-ux) part of this document. They are clear, themed and coloured consistently across the whole site and link to where the user wants to go whilst the information on the site is easily readable and to the point.
 
 
 ### Features which could be implemented in the future
 
-- __Direct Ecommerce store page__
-    - A 'Store' page could be added to provide an easier and more direct way for users to browse and purchase in house designed items that are not custom to the users needs.
+- __Direct eCommerce store page__
+    - A 'Store' page could be added to provide an easier and more direct way for users to browse and purchase in-house designed items that are not custom to the user's needs.
 
 - __Navigation bar improvements__
-    - The navigation bar could be switched to a hamburger style icon to help save space when additional pages like the store are added on smaller devices such as tablet and mobile
+    - The navigation bar could be switched to a hamburger-style icon to help save space when additional pages like the store are added on smaller devices such as tablets and mobile
 
 - __Image rotator__
     - An image rotator on the main splash page to cycle through "featured" designs and items available would help users instantly see what's new.   
@@ -99,18 +99,18 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 ## Design
 
 -   ### Website style
-    - The style of the website chosen was single-page format. This allows the user to not only navigate to each section from the nav bar but also scroll through the entire website at their leisure.
+    - The style of the website chosen was a single-page format. This allows the user to not only navigate to each section from the nav bar but also scroll through the entire website at their leisure.
 
 -   ### Imagery
-    -  The large and bright 3D Printer image has been chosen because it is eye-catching and bright this draws the user's line of sight and shows the user the technologies used. The Purple and light colors in the image background were chosen to help convey a parody of the company's logo. The Large bright purple font takes the user's eyes naturally across the screen and guides them down to the information about what the company does and the materials they use.
+    -  The large and bright 3D Printer image has been chosen because it is eye-catching and bright this draws the user's line of sight and shows the user the technologies used. The Purple and light colours in the image background were chosen to help convey a parody of the company's logo. The Large bright purple font takes the user's eyes naturally across the screen and guides them down to the information about what the company does and the materials they use.
 
 -   ### Colour Scheme
-    -  A light airy and modern color scheme is used to keep parody with the companies existing logo color scheme. Utilising a dark backgroud for the website helps the content "pop" making it easier on the eyes than a white background, whilst providing a contrast with the website content to help keep readability high.
+    -  A light airy and modern colour scheme is used to keep parody with the company's existing logo colour scheme. Utilising a dark background for the website helps the content "pop" making it easier on the eyes than a white background, whilst providing a contrast with the website content to help keep readability high.
 
         ![Colour Palette](documentation/supp-images/color-theme.jpg)
 
 -   ### Typography
-    -   Google Fonts were used to import Open Sans and sans-seriff fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
+    -   Google Fonts were used to import Open Sans and sans-serif fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
 
 
 -   ### Wireframes
@@ -142,10 +142,10 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 ### Frameworks, Libraries & Programs Used
 
--   [Google Fonts:](https://fonts.google.com/) was used to import the 'Open Sans' font into the style.css file which are used on all pages of the project.
--   [Font Awesome:](https://fontawesome.com/) was used to add icons for aesthetic and UX purposes in the main page and footer.
+-   [Google Fonts:](https://fonts.google.com/) was used to import the 'Open Sans' font into the style.css file which is used on all pages of the project.
+-   [Font Awesome:](https://fontawesome.com/) was used to add icons for aesthetic and UX purposes on the main page and footer.
 -   [Gitpod:](https//Gitpod.io) was used for version control and as a VSCode workspace to code, commit and Push to GitHub.
--   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Gitpod.
+-   [GitHub:](https://github.com/) is used as the repository for the project's code after being pushed from Gitpod.
 -   [AnyWebP](https://anywebp.com/convert-to-webp.html) was used to convert and compress images used on the website
 -   [Adobe XD](https://www.adobe.com/creativecloud.html) was used to create the wireframes during the design process.
 -   [Adobe Photoshop](https://www.adobe.com/creativecloud.html) was used to create the 3D printer image on the main page.
@@ -157,7 +157,7 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 - [HTML Validator](https://validator.w3.org/)
 
-    - Result for index.html (whole single page website)
+    - Result for index.html (whole single-page website)
 
       ![HTML results index](documentation/validation-results/my-html-report.jpg)
 
@@ -168,10 +168,10 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
       ![My CSS result](documentation/validation-results/my-css-style-sheet-report.jpg)
 
-    - Result for website css
+    - Result for website CSS
 
       ![Site CSS result](documentation/validation-results/font-awesome-css-errors.jpg)
-    The warnings seem to be due to import of the Font awesome icons.
+    The warnings seem to be due to the import of the Font awesome icons.
 
 - [Light House Validation](https://developer.chrome.com/docs/lighthouse/overview/)
 
@@ -189,7 +189,7 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 - Testing has been carried out on the following browsers :
     - Chrome Version Version 108.0.5359.99 (Official Build) (64-bit)
     - Firefox Version 88.0.1 (64-bit)
-    - Microsoft Edge Version 108.0.1462.46 (Official build) (64-bit)
+    - Microsoft Edge Version 108.0.1462.46 (Official Build) (64-bit)
     - Safari on macOS Catalina (Safari  Version 16.2)
     
 ### Test Cases and Results
@@ -213,11 +213,11 @@ _Nav and footer hover effects testing_
 
 _Gallery image hover testing_
 
-- Test the expected result of the hover effect on the Gallery images. All imaged behaved as expected when hovering over with the mouse. All images increased in scale by 10% when hovering.
+- Test the expected result of the hover effect on the Gallery images. All images behaved as expected when hovering over them with the mouse. All images increased in scale by 10% when hovering.
 
 ### Known bugs
 
-- Nav bar doesn't update when scrolling between the sections of the webpage when moving down. This requires Java Script from what I could find out and the code examples found I couldn't get working and had to drop the idea due to time constraints and a lack of Java Script knowledge.
+- Nav bar doesn't update when scrolling between the sections of the webpage when moving down. This requires Java Script from what I could find out and the code examples found I couldn't get working and had to drop the idea due to time constraints and a lack of JavaScript knowledge.
 
 
 ## Deployment
@@ -247,27 +247,27 @@ _Gallery image hover testing_
 ### Code
 - Initial HTML structuring was inspired by the Love Running Project from Code Insitute in the CSS essentials module.
 
-- Information on understanding flexbox to display:flex .content-container was taken from : [CSS Tricks a guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Information on understanding flexbox to display: flex .content-container was taken from : [CSS Tricks a guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-- Sticky header was done on advice from Code Institute tutor.
+- Sticky header was done on advice from the Code Institute tutor.
 
-- Code on how to set "active" page on header when clicking link between sections using Java Script was on advice from Code Insitute tutor and taken from W3Schools and adjusted for my needs : [W3Schools How to JS active Element](https://www.w3schools.com/howto/howto_js_active_element.asp)
+- Code on how to set the "active" page on the header when clicking the link between sections using Java Script was on advice from Code Insitute tutor and taken from W3Schools and adjusted for my needs : [W3Schools How to JS active Element](https://www.w3schools.com/howto/howto_js_active_element.asp)
 
-- Contact form used from W3Schools and adjusted to fit my needs and color theme from here : [W3Shools How to CSS Contact form](https://www.w3schools.com/howto/howto_css_contact_form.asp)
+- Contact form used from W3Schools and adjusted to fit my needs and colour theme from here : [W3Shools How to CSS Contact form](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
 ### Media 
 - The colours used were based on the original logo design I created that is displayed in the header. ![Color Palette](documentation/supp-images/color-theme.jpg)
 
-- The icons in the footer and Main page sub titles taken from : [Font Awesome](https://fontawesome.com/)
+- The icons in the footer and Main page are taken from : [Font Awesome](https://fontawesome.com/)
 
 - The fonts used were imported from [Google Fonts](https://fonts.google.com/)
 
-- All gallery images were taken from my personal instagram account : [Instagram](https://www.instagram.com/hexiskatehardware/)
+- All gallery images were taken from my Instagram account : [Instagram](https://www.instagram.com/hexiskatehardware/)
 
-- 3D Printer image on main page taken from StickPNG and edited background in myself in photoshop : [StickPNG 3D Printer](https://www.stickpng.com/img/electronics/3d-printers/mankati-3d-printer)
+- 3D Printer image on the main page taken from StickPNG and edited background myself in photoshop : [StickPNG 3D Printer](https://www.stickpng.com/img/electronics/3d-printers/mankati-3d-printer)
 
 ### Acknowledgments
 
-- Thank you to Code institute student support tutors for direction and help understanding issues I had and my fellow South staffs september 2022 group members for helping with testing.
+- Thank you to Code institute student support tutors for their direction and help in understanding issues I had and my fellow South Staffs September 2022 group members for helping with testing.
 
 - Thank you to my mentor Elaine Roche for the help and template of this README.md

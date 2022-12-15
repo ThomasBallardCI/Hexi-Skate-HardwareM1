@@ -1,6 +1,6 @@
 <h1 align="center">HeXi Skate Hardware Website</h1>
 
-[View the live project here](https://https://thomasballardci.github.io/Hexi-Skate-HardwareM1/)
+[View the live project here](https://thomasballardci.github.io/Hexi-Skate-HardwareM1/)
 
 HeXi Skate Hardware is a site for a fictional company specialising in the design and making of 3D-printed inline skate hardware. The company sells custom design and print services to people who need a replacement part for their inline skates or who just want something different from stock. The site will be used to showcase to potential customers the types of products designed and used by existing customers and allow them to send in requests for products they may need via the contact form.
 

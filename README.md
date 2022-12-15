@@ -142,11 +142,11 @@ HeXi Skate Hardware is a site for a fictional company specialising in the design
 
 ### Frameworks, Libraries & Programs Used
 
--   [Google Fonts:](https://fonts.google.com/) was used to import the 'Open Sans' font into the style.css file which is used on all pages of the project.
--   [Font Awesome:](https://fontawesome.com/) was used to add icons for aesthetic and UX purposes on the main page and footer.
--   [Gitpod:](https//Gitpod.io) was used for version control and as a VSCode workspace to code, commit and Push to GitHub.
--   [GitHub:](https://github.com/) is used as the repository for the project's code after being pushed from Gitpod.
--   [AnyWebP](https://anywebp.com/convert-to-webp.html) was used to convert and compress images used on the website
+-   [Google Fonts:](https://www.fonts.google.com/) was used to import the 'Open Sans' font into the style.css file which is used on all pages of the project.
+-   [Font Awesome:](https://www.fontawesome.com/) was used to add icons for aesthetic and UX purposes on the main page and footer.
+-   [Gitpod:](https//www.Gitpod.io) was used for version control and as a VSCode workspace to code, commit and Push to GitHub.
+-   [GitHub:](https://www.github.com/) is used as the repository for the project's code after being pushed from Gitpod.
+-   [AnyWebP](https://www.anywebp.com/convert-to-webp.html) was used to convert and compress images used on the website
 -   [Adobe XD](https://www.adobe.com/creativecloud.html) was used to create the wireframes during the design process.
 -   [Adobe Photoshop](https://www.adobe.com/creativecloud.html) was used to create the 3D printer image on the main page.
     

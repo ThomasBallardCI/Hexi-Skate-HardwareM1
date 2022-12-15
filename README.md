@@ -269,3 +269,5 @@ _Gallery image hover testing_
 ### Acknowledgments
 
 - Thank you to Code institute student support tutors for direction and help understanding issues I had and my fellow South staffs september 2022 group members for helping with testing.
+
+- Thank you to my mentor Elaine Roche for the help and template of this README.md

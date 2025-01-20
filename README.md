@@ -1,4 +1,4 @@
-<h1 align="center">HeXi Skate Hardware Website</h1>
+<h1 align="center">HeXi Skate Hardware Website clone</h1>
 
 [View the live project here](https://thomasballardci.github.io/Hexi-Skate-HardwareM1/)
 
